@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <link type="text/css" rel="stylesheet" href="{{ side.baseurl }}/assets/default.css">
+        <link rel="shortcut icon" href="{{ side.baseurl }}/assets/avatar-small.jpg">
+        <title>{{ page.title }}</title>
+    </head>
+    <body>
+        <h1>{{ page.title }}</h1>
+        <hr>
+        <div class="content">
+            {{ content | markdownify }}
+        </div>
+        <hr>
+        <div class="footer">
+            2015 - {{ site.time | date:"%Y" }} © <a href="/">LastAvengers</a> | Powered by <a href="http://jekyllrb.com/">Jekyll</a>
+        </div>
+    </body>
+</html>
