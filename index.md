@@ -3,19 +3,21 @@ title: About
 layout: default
 ---
 
-在网络上自称 _LastAvengers_ ，因为太长又太中二所以常常缩写成 _LA_ 。
-有时也自称「谷月轩」，出自游戏《[武林群侠传](https://zh.wikipedia.org/wiki/武林群侠传)》
-
-大四软件工程在读，虽然在读但事实上并没有在读。
-
-Arch Linux 玩家，开源{吸血鬼,爱好者}，时常灌水于 [#archlinux-cn](https://webchat.freenode.net/?channels=archlinux-cn)。
+- SY.Zhang，在网络上自称 _LastAvengers_ ，因为太长又太中二所以常常缩写成 _LA_ 。
+- 有时也自称「谷月轩」，出自游戏《[武林群侠传](https://zh.wikipedia.org/wiki/武林群侠传)》
+- 大四软件工程在读
+- Arch Linux 玩家，[Arch Linux 中文社区](http://www.archlinuxcn.org/)软件源打包者
+- 使用 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 聊天，
+  时常灌水于 [#archlinux-cn](https://webchat.freenode.net/?channels=archlnux-cn)，
+  正在开发一个现代的 IRC [客户端](https://github.com/lastavenger/srain)
+- 外行的绘画爱好者
 
 
 Sites
 -----
 
 [Blog](http://tech.lastavengers.me)
-| [Notes](http://notes.lastavengers.me)
+| Notes
 | [Github](https://github.com/lastavenger)
 | [Lofter](http://lastavengers.lofter.com/)
 | [Zhihu](https://www.zhihu.com/people/lastavengers)
@@ -24,10 +26,10 @@ Sites
 Services
 --------
 
-- IRC chat log:
-    + #archlinux-cn 
-    + #linuxba
-    + #gzlug
+- [IRC chat log](http://irclog.lastavengers.me):
+    + [#archlinux-cn](http://irclog.lastavengers.me/archlinux-cn/today)
+    + [#gzlug](http://irclog.lastavengers.me/gzlug/today)
+    + ...
 - ...
 
 
