@@ -9,7 +9,7 @@ layout: default
 - Arch Linux 玩家，[Arch Linux 中文社区](http://www.archlinuxcn.org/)软件源打包者
 - 使用 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 聊天，
   时常灌水于 [#archlinux-cn](https://webchat.freenode.net/?channels=archlnux-cn)，
-  正在开发一个现代的 IRC [客户端](https://github.com/lastavenger/srain)
+  正在开发一个现代化的 IRC 客户端 [Srain](https://github.com/lastavenger/srain)
 - 外行的绘画爱好者
 
 
@@ -17,7 +17,7 @@ Sites
 -----
 
 [Blog](http://tech.lastavengers.me)
-| Notes
+| [Notes](https://notes.lastavengers.me/)
 | [Github](https://github.com/lastavenger)
 | [Lofter](http://lastavengers.lofter.com/)
 | [Zhihu](https://www.zhihu.com/people/lastavengers)
@@ -55,8 +55,7 @@ Contact me
 ----------
 
 - E-mail: `echo -n bGFzdGF2ZW5nZXJzQG91dGxvb2suY29t | base64 -d`
-- Tox: `D2A256545453A5F9381C1A015083584A2EF59E93427CD538642A772E5E8C376A6D56AA7AC564`
-- IRC: `LastAvengers @ irc.freenode.net`
+- IRC: `LastAvengers @ Freenode`
 - PGP key:
 
         -----BEGIN PGP PUBLIC KEY BLOCK-----
