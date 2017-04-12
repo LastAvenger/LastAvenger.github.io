@@ -1,11 +1,13 @@
-body { 
-    width: 50%; margin: 0 auto; 
+@media screen and (max-device-width: 960px) { body { width: 100% }}
+
+body {
+    width: 50%; margin: 0 auto;
     font: normal 100%;
     padding: 2rpx;
 }
-@media screen and (max-device-width: 960px) { body { width: 100% }}
-h1 { text-align: center; }
-.footer { text-align: center; font-size: 0.8em; }
+
+header h1 { text-align: center; }
+footer { text-align: center; font-size: 0.8em; }
 
 pre {
   white-space: pre-wrap;
