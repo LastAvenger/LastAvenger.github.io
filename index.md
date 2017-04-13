@@ -15,7 +15,7 @@ Links
 | [Notes](https://notes.silverrainz.me/)
 | [Github](https://github.com/silverrainz)
 | [Lofter](http://silverrainz.lofter.com/)
-| [Zhihu](https://www.zhihu.com/people/silverrainz)
+| [Zhihu](https://www.zhihu.com/people/silverainz)
 | [Twitter](https://twitter.com/silverrainz_)
 | [Bangumi](https://bgm.tv/user/silverrainz)
 
