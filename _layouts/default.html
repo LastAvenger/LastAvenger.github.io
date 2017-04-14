@@ -5,8 +5,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <base target='_blank'/>
         <link type="text/css" rel="stylesheet" href="{{ side.baseurl }}/assets/default.css">
-        <link rel="shortcut icon" href="{{ side.baseurl }}/assets/avatar-small.jpg">
         <title>{{ page.title }}</title>
+        <script>
+
+var host = "{{ site.domain }}";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+
+        </script>
     </head>
     <body>
         <header>
