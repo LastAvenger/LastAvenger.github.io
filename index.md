@@ -36,5 +36,5 @@ Time Line
 Contact me
 ----------
 
-- E-mail: `echo c2lsdmVycmFpbnpAb3V0bG9vay5jb20K | base64 -d`
+- E-mail: `echo aUBzcmFpbi5pbQo= | base64 -d`
 - IRC: `SilverRainZ @ Freenode`
