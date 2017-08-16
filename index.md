@@ -34,4 +34,5 @@ Contact me
 ----------
 
 - E-mail: `echo aUBzcmFpbi5pbQo= | base64 -d`
-- IRC: `SilverRainZ @ Freenode`
+- IRC: `SilverRainZ @ freenode`
+- GPG fingerprint: `9939 9D88 F7B7 52BF 364C  D485 A85E 3925 A621 1F05`
