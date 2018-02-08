@@ -33,6 +33,21 @@ Time Line
 Contact me
 ----------
 
-- E-mail: `echo aUBzcmFpbi5pbQo= | base64 -d`
+- E-mail:
+    <code id="email" style="unicode-bidi:bidi-override; direction: rtl;">
+    em.zniarrevlis@i
+    </code>
 - IRC: `SilverRainZ @ freenode`
 - GPG fingerprint: `9939 9D88 F7B7 52BF 364C  D485 A85E 3925 A621 1F05`
+
+<script type="text/javascript">
+var reversedEmail = document.getElementById("email").innerText;
+document.getElementById("email").addEventListener('copy', function(e) {
+    var selection = window.getSelection().toString();
+    if (selection.indexOf(reversedEmail) >= 0) {
+        var normalEmail = selection.split("").reverse().join("");
+        e.clipboardData.setData("text/plain", normalEmail);
+    }
+    e.preventDefault();
+});
+</script>
