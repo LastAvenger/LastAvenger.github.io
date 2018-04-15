@@ -20,7 +20,7 @@ Projects
 --------
 
 - [OS67](https://github.com/silverrainz/OS67): Unix-like kernel
-- [Srain](https://github.com/silverrainz/srain): Modern IRC client
+- [Srain](https://srain.im): Modern IRC client
 - [LABots](https://github.com/silverrainz/labots): IRC bot framework
 
 
